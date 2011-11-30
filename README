@@ -1,0 +1,21 @@
+KdxP Mendel - Killer dx(derivative) Prusa Mendel
+This is mostly based on the ideas of the the Prusa Mendel, specifically mostly V2
+However, not one single part will be used as-is
+All parts will be remodelled, rethunk, and reworked to some degree.
+
+It is currently a work in progress.
+
+The main goal of this project is to:
+
+  1) build on the genius that is/was... the Prusa Mendel!
+  2) improve wherever possible
+  3) use a REAL cad system to build a manufacturable model * <- this is just my preference.
+
+I will NOT be building these in SCAD or any poly modeller.
+I WILL be posting STEP and STL files.
+Once the parts are tested and working - I would definitely welcome if someone wanted to convert the parts to SCAD for open sourceability... I just won't be working on that.
+
+PLEASE NOTE!!! Until stated otherwise, this repository is PRE ALPHA!  do not expect a working printer from these parts.
+However if you are excited by all things experimental, please print these up, test them out and post any problems you find in the issues section.
+
+thanks!
